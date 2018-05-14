@@ -1,0 +1,44 @@
+h1 {
+    font-family: 'Skranji', cursive;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Skranji', cursive;
+    margin-top: 0rem;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+}
+
+p .author {
+    margin-top: -2rem;
+}
+
+body {
+    background-color: #EFC043;
+    
+}
+
+img {
+
+}
+
+
+
+.dogimagecontainer {
+    width: 90%;
+    
+    
+}
+
+.dogimages {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+ 
+}
